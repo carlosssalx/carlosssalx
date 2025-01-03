@@ -1,8 +1,8 @@
-<h2 align="left">👋 Hello! I'm Carlos Alexandre</h2>
+<h2 align="left">👋 Hello! I'm Carlos Alexandre.</h2>
 
 ###
 
-<p align="left">🧠 I'm studying Computer Engineering at UEMA (University)<br>💻 I'm studying Information Technology at IFMA (Technician)</p>
+<p align="left">🧠 I'm studying Computer Engineering at UEMA. (University)<br>💻 I'm studying Information Technology at IFMA. (Technician)</p>
 
 ###
 
