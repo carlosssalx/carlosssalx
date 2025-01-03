@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm studying Computer Engineering at UEMA (University)<br>I'm studying Information Technology</p>
+<p align="left">I'm studying Computer Engineering at UEMA (University)<br>I'm studying Information Technology at IFMA (Technician)</p>
 
 ###
 
