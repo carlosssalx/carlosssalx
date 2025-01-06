@@ -2,8 +2,6 @@
 
 ###
 
-<p align="left">🧠 I'm studying Computer Engineering at UEMA. (University)<br>💻 I'm studying Information Technology at IFMA. (Technician)</p>
-
 ###
 
 <div align="left">
