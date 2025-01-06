@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hello! I'm Carlos Alexandre.</h2>
+<h2 align="left">Hey! I'm Carlos Alexandre.</h2>
 
 ###
 
